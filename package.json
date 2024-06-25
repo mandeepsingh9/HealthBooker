@@ -4,7 +4,7 @@
   "description": "Doctor appointment website",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Avinash905",
   "license": "ISC",
